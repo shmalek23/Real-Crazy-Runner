@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/EndlessRunner.unity
+- path: Assets/Scenes/MenuScreen_NormalPlayer.unity
   isLoaded: 1
   isActive: 1
